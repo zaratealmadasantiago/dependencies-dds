@@ -28,5 +28,9 @@ npm i express
 npm i sequelize
 
 npm i cors
----npm i jsonwebtoken
----npm i sqlite3
+
+npm i jsonwebtoken
+
+npm i sqlite3
+
+## npm start
